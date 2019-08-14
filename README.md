@@ -1,4 +1,4 @@
-WELCOME TO QUEST GLOBAL
+WELCOME TO QUEST GLOBAL.
 =======================
 
 A simple java web app
